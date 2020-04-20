@@ -1,5 +1,7 @@
 # COVID-19 ERTEs Impact Visualization in Barcelona
 
+![](impact_bcn.png)
+
 Due to the Coronavirus disease (COVID-19) outbreak situation that the world has been suffering for the last months, on March 14, 2020, <cite>[the Spanish government declared the so-called _Estado de Alarma_][1]</cite>, imposing restrictions on the mobility of the population and the economic activity of different sectors, in order to control the spread of the virus across the country. 
 
 These measures have had, unfortunately, a big impact on the economy and employment. Companies and employers are losing <cite>[thousands of millions of Euros][2]</cite> and, as a consequence, many of them have had to drastically reduce their number of employees via a procedure called <cite>[_Expediente de Regulación Temporal de Empleo_][3]</cite>, or _ERTE_ for short, which allows companies and business to temporarily fire one or more employees, during the time their economic activity is suspended.
